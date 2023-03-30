@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
 HOST='80.240.20.126';
-USER='ninjavpn';
-PASS='ninjavpn';
-DBNAME='ninjavpn';
+USER='bulletvpn';
+PASS='azim.0987';
+DBNAME='bulletvpn';
 PORT_TCP='1194';
 PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
